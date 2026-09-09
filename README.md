@@ -20,11 +20,8 @@ A browser-based idle game inspired by Cookie Clicker, developed as my A-Level Co
 - XP and levelling
 - Achievements
 - Prestige system
-- Meteor minigame
 - Save/load functionality
-- Multiple planets
 - Sound effects
-- Light and dark themes
 
 ---
 
