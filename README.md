@@ -8,7 +8,8 @@ A browser-based idle game inspired by Cookie Clicker, developed as my A-Level Co
 
 ## Screenshot
 
-![Idle Planet Screenshot](Screenshots/IdlePlanetScreenshot.png")
+
+![Idle Planet screenshot](https://raw.githubusercontent.com/GermanKerrMan/Idle-Planet/main/Screenshots/IdlePlanetScreenshot.png)
 
 ---
 
