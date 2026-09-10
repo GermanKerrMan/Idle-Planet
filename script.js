@@ -4,7 +4,7 @@
 
 const game_data = {
     // POPULATION AND MONEY
-    population: 10000000000000000000000000000000000000000000000000,
+    population: 0,
     money: 0,
     money_per_second: 0, 
 
